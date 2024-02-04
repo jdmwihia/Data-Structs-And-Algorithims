@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1706984602 source:c:\users\admin\desktop\coding\schoolwork\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1706536702 source:c:\users\admin\desktop\coding\schoolwork\arrays\duplicate elements.c
+	<stdio.h>
+	<stdlib.h>
+
+1706552033 source:c:\users\admin\desktop\coding\schoolwork\arrays\test.c
+
+1706992516 source:c:\users\admin\desktop\coding\schoolwork\removing duplicate elements in a sorted array\main.c
+	<stdio.h>
+	<stdlib.h>
+
